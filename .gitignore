@@ -1,3 +1,7 @@
-*.exe
-*.out
+# Configuración de Visual Studio Code
 .vscode/
+
+# Ejecutables de C++
+*.exe
+
+*.out
