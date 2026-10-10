@@ -47,16 +47,6 @@ repasogeneral/
 
 </pre>
 
-Compilación y ejecución
-
-Para compilar el programa, abrir una terminal en la carpeta principal del proyecto y ejecutar:
-
-g++ src/main.cpp -o src/repasogeneral.exe
-
-Después, ejecutar el programa con:
-
-.\src\repasogeneral.exe
-
 Documentación
 
 La carpeta "docs/" contiene el registro de cambios del proyecto ("CHANGELOG.md") y los documentos correspondientes a la actividad. La carpeta "capturas/" almacena las imágenes de las ejecuciones y pruebas realizadas.
