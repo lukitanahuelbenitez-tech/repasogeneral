@@ -17,6 +17,8 @@ Agregado
 - Incorporación de la licencia MIT.
 - Creación de la carpeta "docs/" para la documentación.
 - Creación de la carpeta "capturas/" para guardar evidencias de ejecución.
+- Creación del manual técnico del programador en formato PDF.
+- Documentación de la arquitectura del proyecto, las funciones principales, la compilación y los errores frecuentes.
 
 Objetivo
 
