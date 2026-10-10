@@ -19,6 +19,8 @@ Agregado
 - Creación de la carpeta "capturas/" para guardar evidencias de ejecución.
 - Creación del manual técnico del programador en formato PDF.
 - Documentación de la arquitectura del proyecto, las funciones principales, la compilación y los errores frecuentes.
+- Creación del manual del usuario en formato PDF.
+- Creación del informe de la actividad 6 en formato PDF.
 
 Objetivo
 
