@@ -3,7 +3,7 @@ Taller de Repaso General en C++
 Información del proyecto
 
 - Materia: Laboratorio de Programación (LPR)
-- Curso: 5.º año
+- Curso: 5º3
 - Actividad: 6 - Taller práctico de repaso y consolidación en C++
 - Año: 2026
 - Estudiante: Lucas Benitez
